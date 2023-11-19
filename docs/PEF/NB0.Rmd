@@ -31,7 +31,7 @@ Este curso busca proporcionar al estudiante una visión general de los fundament
   - [El gráfico de caja y detección de outliers](https://anlopezl.github.io/clases/PEF/PEF_1_2C.pdf)
   
 - Capítulo 3: Estadística descriptiva. Resumen y descripción de datos de dos variables
-  - [Presentación gráfica y medidas descriptivas de dos variables](https://anlopezl.github.io/clases/PEF/PEF_1_3A.pdf.pdf)
+  - [Presentación gráfica y medidas descriptivas de dos variables](https://anlopezl.github.io/clases/PEF/PEF_1_3A.pdf)
   
 - Capítulo 4: Probabilidad
   - [Introducción a la probabilidad. Parte 1](https://anlopezl.github.io/clases/PEF/PEF_2_1A.pdf).
