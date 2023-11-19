@@ -1,0 +1,52 @@
+---
+title: "Probabilidad y Estadística Fundamental"
+author: "Profesor: Nicolás López"
+output:
+  rmdformats::downcute
+---
+
+<br>
+
+**Resumen** 
+
+Este curso busca proporcionar al estudiante una visión general de los fundamentos y aplicaciones de la Estadística, promoviendo el desarrollo del pensamiento estadístico en su formación profesional y estimulando el manejo adecuado de conceptos, términos y métodos estadísticos empleados en las diferentes áreas del conocimiento.
+
+
+<br>
+
+**Introducción**
+
+- [Programa](https://anlopezl.github.io/clases/PEF/Programa.pdf)
+- [Laboratorios de programación](https://anlopezl.github.io/clases/PEF/Laboratorios.html)
+
+**Clases**
+
+- Capítulo 1: Estadística descriptiva. Introducción al curso
+  - [Definiciones iniciales en estadística](https://anlopezl.github.io/clases/PEF/PEF_1_1A.pdf)
+  - [Clasificación de variables y escalas de medición](https://anlopezl.github.io/clases/PEF/PEF_1_1B.pdf)
+  
+- Capítulo 2: Estadística descriptiva. Resumen y descripción de datos de una variable
+  - [Presentación tabular y gráfica de una variable](https://anlopezl.github.io/clases/PEF/PEF_1_2A.pdf)
+  - [Medidas descriptivas de centro, dispersión, localización y forma](https://anlopezl.github.io/clases/PEF/PEF_1_2B.pdf)
+  - [El gráfico de caja y detección de outliers](https://anlopezl.github.io/clases/PEF/PEF_1_2C.pdf)
+  
+- Capítulo 3: Estadística descriptiva. Resumen y descripción de datos de dos variables
+  - [Presentación gráfica y medidas descriptivas de dos variables](https://anlopezl.github.io/clases/PEF/PEF_1_3A.pdf.pdf)
+  
+- Capítulo 4: Probabilidad
+  - [Introducción a la probabilidad. Parte 1](https://anlopezl.github.io/clases/PEF/PEF_2_1A.pdf).
+  - [Introducción a la probabilidad. Parte 2](https://anlopezl.github.io/clases/PEF/PEF_2_1B.pdf). 
+  - [Reglas de conteo](https://anlopezl.github.io/clases/PEF/PEF_2_1C.pdf)
+  - [Probabilidad condicional. Independencia y regla de Bayes.](https://anlopezl.github.io/clases/PEF/PEF_2_2A.pdf)
+
+- Capítulo 5: Variables aleatorias
+  - [Definiciones iniciales en variables aleatorias](https://anlopezl.github.io/clases/PEF/PEF_3_1A.pdf)
+  - [Variables aleatorias discretas y sus distribuciones](https://anlopezl.github.io/clases/PEF/PEF_3_2A.pdf)
+  - [Variables aleatorias continuas y sus distribuciones](https://anlopezl.github.io/clases/PEF/PEF_3_2B.pdf)
+  
+  
+**Talleres**
+
+- [Taller 1](https://anlopezl.github.io/clases/PEF/T01.pdf).
+- [Taller 2](https://anlopezl.github.io/clases/PEF/T02.pdf).
+- [Taller 3](https://anlopezl.github.io/clases/PEF/T03.pdf).
